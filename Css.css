@@ -1,0 +1,122 @@
+.main-page {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.doc-connect {
+    height: 250px;
+    width: 200px;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px lightgray;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.doc-connect img {
+    height: 160px;
+    width: 200px;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.doc-connect:hover {
+    box-shadow: 2px 2px 10px yellow;
+}
+
+.world-safety {
+    height: 250px;
+    width: 200px;
+    border-radius: 12%;
+    border: 1px solid lightgray;
+    margin-left: 1rem;
+}
+
+.world-safety img {
+    height: 160px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+a {
+    margin-left: center;
+    text-decoration: none;
+    text-align: center;
+}
+
+.world-safety:hover {
+    box-shadow: 2px 2px 10px grey;
+}
+
+.ortho {
+    height: 250px;
+    width: 200px;
+    border-radius: 12%;
+    border: 1px solid lightgray;
+    margin-left: 1rem;
+}
+
+.ortho img {
+    height: 160px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.ortho-a {
+    margin-left: center;
+    text-decoration: none;
+}
+
+.ortho:hover {
+    box-shadow: 2px 2px 10px grey;
+}
+
+.cardio {
+    height: 250px;
+    width: 200px;
+    border-radius: 12%;
+    border: 1px solid lightgray;
+    margin-left: 1rem;
+}
+
+.cardio img {
+    height: 160px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.cardio-a {
+    margin-left: center;
+    text-decoration: none;
+}
+
+.cardio:hover {
+    box-shadow: 2px 2px 10px grey;
+}
+
+.emergency {
+    height: 250px;
+    width: 200px;
+    border-radius: 12%;
+    border: 1px solid lightgray;
+    margin-left: 1rem;
+}
+
+.emergency img {
+    height: 160px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.emergency-a {
+    margin-left: center;
+    text-decoration: none;
+}
+
+.emergency:hover {
+    box-shadow: 2px 2px 10px grey;
+}
+
+/* @media (max-width:1000px) {
+    .hide {
+        display: none;
+    }
+} */
